@@ -1,0 +1,31 @@
+@import url('http://fonts.cdnfonts.com/css/american-typewriter');
+
+
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+.row{
+    margin-top: 20vh;
+}
+
+h2{
+    padding-left: 100px;
+    color: whitesmoke;
+    font-family: 'american typewriter';
+
+}
+
+h4{
+    margin-top: 0;
+}
+
+
+.btn{
+    background-color:rgb(44, 44, 44) !important;
+    border-radius: 30px !important;
+}
+
+.share{
+    color: whitesmoke;
+}
